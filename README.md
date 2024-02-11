@@ -5,7 +5,7 @@ In this repository we cover six important topics for Information retrieval .
 
 This repository is recommended for Natural Language Processing researchers.
 
-* CA1 : BM25 Retrieval Function , Pivoted Length Normalization , Rocchio Relevance Feedback , Evaluation Criteria .
+* CA1 : BM25 Retrieval , Pivoted Length Normalization , Rocchio Relevance Feedback, Evaluation.
 * CA1-Extra : HyperParameter Fine Tuning.
 * CA2 : Smoothing , Psedu Relevance Feedback , Expectation Maximization , Okapi TF .
 * CA3 : Word Association Mining , Indexing formats , Axiomatic Inferences .
